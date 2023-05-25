@@ -3,6 +3,7 @@
 #define COMPLEX_H
 
 // what?
+// this is sec
 #define MAX_LINE_LENGTH 100
 
 typedef struct
