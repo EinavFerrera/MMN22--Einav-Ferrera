@@ -2,7 +2,7 @@
 #ifndef COMPLEX_H
 #define COMPLEX_H
 
-
+// what?
 #define MAX_LINE_LENGTH 100
 
 typedef struct
