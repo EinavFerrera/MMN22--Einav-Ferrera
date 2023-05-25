@@ -2,8 +2,7 @@
 #ifndef COMPLEX_H
 #define COMPLEX_H
 
-// what?
-// this is sec
+// delet all commit
 #define MAX_LINE_LENGTH 100
 
 typedef struct
