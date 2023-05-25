@@ -1,0 +1,17 @@
+Enter a command:
+read_comp G, 3.1, 6.5: Error - Undefined complex variable
+read_comp a, 3.6, 5.1: Error - Undefined complex variable
+do_it A, B: Error - Unknow function name
+Add_Comp A, C: Error - Unknow function name
+read_comp A, 3.5, xyz: Error - Third parameter, after the comma, should be a Number
+read_comp A, 3.5: Error - Third parameter, after the comma, should be a Number
+read_comp A, 3.5, -3,: Error - no charcters allowed after end of command
+add_comp B: Error - Undefined complex variable
+print_comp C, D: Error - no charcters allowed after end of command
+sub_comp F, , D: Error - Illegal comma
+mult_comp_comp F D: Error - Illegal comma
+mult_comp_real, A, 2.5: Error - Unknow function name
+mult_comp_img A, B: ErrorCheck - invalid
+abs_comp: Error - Undefined complex variable
+abs_comp 2.5: Error - Undefined complex variable
+stop A: Error - Unknow function name

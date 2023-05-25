@@ -1,0 +1,4 @@
+Enter a command:
+read_comp A, 1, 2: 
+: : print_comp A: 1.000000+(2.000000)i
+: Error - ending with EOF instead of 'stop' command

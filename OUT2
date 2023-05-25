@@ -1,0 +1,11 @@
+Enter a command:
+read_comp A, 1, 2: 
+read_comp B, 3, 4: 
+print_comp A: 1.000000+(2.000000)i
+print_comp B: 3.000000+(4.000000)i
+add_comp A, B: 4.000000+(6.000000)i
+sub_comp A, B: -2.000000+(-2.000000)i
+mult_comp_real A, 2: 2.000000+(4.000000)i
+mult_comp_img A, 3: -6.000000+(3.000000)i
+mult_comp_comp A, B: -5.000000+(10.000000)i
+abs_comp A: 2.236068

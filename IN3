@@ -1,0 +1,5 @@
+read_comp A, 1, 2
+
+
+print_comp A
+
